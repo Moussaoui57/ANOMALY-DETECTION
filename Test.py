@@ -27,17 +27,4 @@ else:
     ag.train_using_gini(ag.X_train,ag.y_train)
     ag.prediction(ag.X_test,ag.model) 
 
-
-
-
-#print(clf_gini)
-
-#X_train, X_test, y_train, y_test=ag.splitdataset(lab)
-
-#lab=ag.GetLabel(X)
-#X_train, X_test, y_train, y_test=splitdataset(Xlab_)
-
-
-
-
     
