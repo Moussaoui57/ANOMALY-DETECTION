@@ -20,8 +20,8 @@ transactions using machine learning technology”.
 
 # Conclusion 
 
-Finaly, Ater evaluating models by comparing the performance of signification model results for
-each classifiers by AUC and accuracy metrics. It can be seen that the most model is for
+eventually, After evaluating models by comparing the performance of signification model results for
+each classifiers by AUC and accuracy metrics. we illustrate the most model is for
 CART with the best score (97 %,98 %). Less then is for XGBOOST with (89 %,96 %) then
 The third place with (87 %,95 %) is for SVM. The last three classifiers will remain relatively
 decreases between (80 % AUC to 72 %) and (91.8 Accuracy to 91.2).
