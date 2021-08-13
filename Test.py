@@ -18,7 +18,7 @@ ag.GetLabel(ag.X)
 #ag.cal_accuracy(y_test,y_pred_gini)
 
 
-
+# train model by the new observation
 if ag.model!=None:
     print('the mode is deployed')    
     ag.prediction(ag.X_test,ag.model) 
